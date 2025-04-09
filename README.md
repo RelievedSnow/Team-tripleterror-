@@ -1,55 +1,31 @@
-# CodeFusion---March-April---2025 Sumbissons
-# 💸 CryptoPlace
 
-CryptoPlace is a sleek and modern cryptocurrency marketplace that allows users to explore real-time coin prices using the Genko API and visualize trends using dynamic charts powered by Google Charts. Designed with an intuitive UI using React.js and backed by MongoDB Atlas on the server side, it’s a secure, scalable, and responsive crypto hub.
+Team Members - Neelam Savardekar, Diksha Gavali, Pradnya Randhe.
 
----
+-Our Rapid WhatsApp is a React-based project that simplifies the process of starting a conversation on 
+WhatsApp without having to save a contact's number in your phone's contacts list. 
 
-## 🔥 Features
+-The project allows users to enter a phone number directly into the app, click on "chat," and then be taken directly to that person's WhatsApp chat window without the need to save their number in their phone's contacts list. 
 
-- 🔐 *User Authentication* (Login/Signup with JWT)
-- 📈 *Real-Time Coin Prices* from *Genko API*
-- 📊 *Interactive Line Charts* using Google Charts
-- 🌐 *Responsive UI* with modern design and glassmorphic elements
-- 🧠 *Blog Section* for crypto insights
-- 💡 *Features Page* explaining platform advantages
-- ☁ *MongoDB Atlas* for secure data handling
-- 🚀 Fully functional backend with Express and secure routing
+-Additionally, Rapid WhatsApp includes the ability to save contacts directly in your browser's local storage.
 
----
+*How to Run the Project*
 
-## 🛠 Tech Stack
+Step 1: Clone the Project or Download the zip file.
+Step 2: Open it in any code Editor of your choice.
+Step 3: Open the terminal and type 'npm install' to install all the node modules.
+Step 3: After installing the modules, type 'npm start' to run it.
+Step 4: The project will automatically run on the //localhost:3000.
 
-*Frontend:*
-- React.js
-- Tailwind CSS
-- Google Charts
+*Project Screenshots*
 
-*Backend:*
-- Node.js
-- Express.js
-- MongoDB Atlas
-- Mongoose
-- JWT (jsonwebtoken)
-- bcryptjs
-- nodemailer
-- cookie-parser
-- dotenv
-- cors
 
----
+![alt text](image.png)
 
-## ⚙ Setup & Usage Instructions
-For FrontEnd:
-cd client
-npm install
-npm start
 
-For BackEnd:
-cd server
-npm install
-npm run dev
+![alt text](image-1.png)
 
-Team Members:-[Synapse surge]
-Ekta Pandey
-Sneha Mishra
+
+![alt text](image-2.png)
+
+
+![alt text](image-3.png)

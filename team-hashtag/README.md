@@ -1,4 +1,5 @@
 Project Name: CyberSecureDocs
+
 Team Members: Ayushi Singh, Himani Rane, Himanshi Sharma, Siddhi Misal
 
 CyberSecureDocs is a cybersecurity-enterprise-focused website that allows users to upload log files and images for automated analysis. The system detects potential vulnerabilities in logs (e.g., XSS, SQL Injection) and checks whether uploaded image files are corrupted. Secure file management, user authentication, and historical tracking are core components of the site.
